@@ -8,7 +8,7 @@ You need jquery (https://www.jqueryscript.net/) in order to use this libarary.
 Download the `class-on-scroll-jquery.js` file and import it in your html file by:
 * import it inside the html document:
 ```html
- <script src="path/to/jquery.js"></script> <! -- Load the jQuery before it -- >
+ <script src="path/to/jquery.js"></script> <!-- Load the jQuery before it -->
  <script src="path/to/class-on-scroll-jquery.js"></script>
 ```
 
