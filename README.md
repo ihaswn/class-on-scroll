@@ -1,5 +1,5 @@
 # About
-this is just a simple javascript library to add/remove classes when the elements gets in the screen by scrolling
+this is just a simple javascript library to add/remove classes when the elements gets in or out of the screen by scrolling
 
 # Dependencies
 You need jquery (https://www.jqueryscript.net/) in order to use this libarary.
@@ -19,7 +19,7 @@ You just need to assign a HTML element the data attributes, the names are self e
   * `data-cos_add_on_scroll_out` add classes to element when its gets out of viewport
   * `data-cos_remove_on_scroll_out` remove classes from element when its gets out of viewport
 
-# Example:
+# Example
 in this example we will add the `animate__animated animate__flipInX` classes to the element when user scrolls and the element gets visible
 the classes are from the animate.style libarary, by this the element will have a transition animation and gets visible to the user
 ```html
